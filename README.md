@@ -4,8 +4,12 @@
 <p>Name: Radio Internasyonal</p>
 <p>Recorded Date: 09/24/2021</p>
 <p>Time: 19:41</p>
-<audio controls>
-  <source src="Radio Internasyonal Rec: 09-24-2021/Pro Chinese-Filipino Radio.wav" type="audio/wav">
+<audio
+        controls
+        src="Radio Internasyonal Rec: 09-24-2021/Pro Chinese-Filipino Radio.wav">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 <h2></h2>
   
   
