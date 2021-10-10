@@ -2,7 +2,11 @@
 <p>Name: Radio Internasyonal</p>
 <p>Recorded Date: 09/24/2021</p>
 <p>Time: 19:41</p>
- <a href=“Radio Internasyonal Rec: 09-24-2021/Pro Chinese-Filipino Radio.wav ”>elephant</a>
+  <audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="horse.mp3" type="audio/mpeg">
+  Your browser does not support the audio tag.
+</audio> 
  <h2></h2>
 <p>Name: Unknown Chinese Radio News</p>
 <p>Date: 09/19/2021</p>
